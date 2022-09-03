@@ -12,3 +12,5 @@ Work plan:
 Data review.
 Data preprocessing.
 Hypothesis testing.
+
+Used Libraries: Pandas
